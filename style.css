@@ -5,21 +5,7 @@
     box-sizing: border-box;
 
 }
-@media (max-width: 768px) {
-  /* Styles for tablets and mobile devices */
-  .container {
-    width: 100%;
-    padding: 10px;
-  }
-}
 
-@media (min-width: 769px) {
-  /* Styles for desktops */
-  .container {
-    width: 80%;
-    margin: auto;
-  }
-}
 
 body{
     background: #080808;
